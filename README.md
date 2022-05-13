@@ -14,6 +14,13 @@
 <br>&emsp;&emsp;&emsp;&emsp;คำสำคัญ ระบบล็อค, บอร์ด Arduino
 ## เกี่ยวกับโปรเจค
 <br>&emsp;&emsp;&emsp;&emsp;ระบบล็อคประตูโดยใช้ Arduino board จัดทำขึ้นโดยมีวัตถุประสงค์เพื่อใช้ในการศึกษาเกี่ยวกับการทำงานของ Arduino และยังสามารถนำไปใช้เพื่อยกระดับความปลอดภัยได้
+## อุปกรณ์ที่ใช้
+<br>-Arduino board
+<br>-Servo
+<br>-LCD 16x2
+<br>-Keypad
+<br>-Wire
+<br>-resistor
 ## Arduino Board
 <br><img src="./img/arduino.png" width=442 height=391>
 ## Start
