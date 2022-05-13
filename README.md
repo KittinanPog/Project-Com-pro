@@ -165,6 +165,8 @@ void Open()
 ```
 ## แบบจำลองวงจร
 <br>https://wokwi.com/projects/331185567322604116
+## คลิปวิดิโอสาธิตการทำงาน
+<br>https://www.youtube.com/watch?v=VuywDXLUdMk
 ## สมาชิก
 <br>นาย กิตตินันท์ เจริญทรง 64070007
 <br>นาย พัสกร คำแก้ว 64070073
